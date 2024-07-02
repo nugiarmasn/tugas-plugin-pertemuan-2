@@ -1,7 +1,7 @@
 fun main() {
-    var NILAIBINGGRIS = 90.0
-    var NILAIADPL = 95.0
-    var NILAIRPL = 90.0
+    var NILAIBINGGRIS = 75
+    var NILAIADPL = 75
+    var NILAIRPL = 75
 
     var totalnilai = (NILAIBINGGRIS + NILAIADPL + NILAIRPL)
     var nilairatarata = totalnilai / 3
